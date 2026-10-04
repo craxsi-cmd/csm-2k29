@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+data_*/
+*.xlsx
+*.pdf
+app_CSM2K29_FINAL.py
