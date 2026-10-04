@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+opencv-python
+insightface
+onnxruntime
+pillow
+openpyxl
+fpdf2
